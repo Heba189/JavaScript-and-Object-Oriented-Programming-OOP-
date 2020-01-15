@@ -1,0 +1,23 @@
+player (Item)
+
+	
+	moveUp()
+	moveDown()
+	moveLeft()
+	moveRight()
+
+food (Item)
+	
+	
+Item   	
+       	 shape
+	x
+	y
+
+
+UML diagram ->standard
+
+
+
+
+
